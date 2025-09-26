@@ -7,19 +7,14 @@ Stacks and Queues are fundamental data structures used in a wide variety of prob
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Algorithms List  
 
-├── 33.MonotonicStackAlgo.java # Monotonic Stack in Java
-├── 33.MonotonicStackAlgo.py # Monotonic Stack in Python
-├── 34.MonotonicQueueAlgo.java # Monotonic Queue in Java
-├── 34.MonotonicQueueAlgo.py # Monotonic Queue in Python
-├── 35.ExpressionEvaluationAlgo.java # Expression Evaluation in Java
-├── 35.ExpressionEvaluationAlgo.py # Expression Evaluation in Python
-├── 36.StockSpanAlgo.java # Stock Span Problem in Java
-├── 36.StockSpanAlgo.py # Stock Span Problem in Python
-
-
-Each file is **self-contained** and demonstrates the algorithm step by step with explanations in code.
+| #  | Algorithm                  | Java Code                                                                                  | Python Code                                                                                   |
+|----|----------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 33 | Monotonic Stack            | [33.MonotonicStackAlgo.java](./33.MonotonicStackAlgo.java)                                 | [33.MonotonicStackAlgo.py](./33.MonotonicStackAlgo.py)                                        |
+| 34 | Monotonic Queue            | [34.MonotonicQueueAlgo.java](./34.MonotonicQueueAlgo.java)                                 | [34.MonotonicQueueAlgo.py](./34.MonotonicQueueAlgo.py)                                        |
+| 35 | Expression Evaluation      | [35.ExpressionEvaluationAlgo.java](./35.ExpressionEvaluationAlgo.java)                     | [35.ExpressionEvaluationAlgo.py](./35.ExpressionEvaluationAlgo.py)                            |
+| 36 | Stock Span Problem         | [36.StockSpanAlgo.java](./36.StockSpanAlgo.java)                                           | [36.StockSpanAlgo.py](./36.StockSpanAlgo.py)                                                  |
 
 ---
 
